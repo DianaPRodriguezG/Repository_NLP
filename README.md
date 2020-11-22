@@ -7,12 +7,16 @@ Durante este 2020 hice una especialización en Analítica Estratégica de Datos 
 Lectura de archivos de texto, realizar conteo de palabras en estos archivos y usando técnicas de web scraping realizar extracción de datos de páginas web identificando etiquetas.
 
 - [Extracción, pre-procesamiento y normalización de textos](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller3_NLP_PreprocTextos_DianaRodriguez.ipynb)
+Lectura de texto y realizar preprocesamiento incluyendo convertir el texto en sólo minúsculas, eliminar signos de puntuación y otros símbolos, eliminar palabras vacías, identificar raíces de las palabras (stemming) y las etiquetas gramaticales (pronombres, artículos, adjetivos, verbos, etc).
 
 - [Representación vectorial de textos (Bag of Words)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller4_NLP_FeatureEngineering_DianaRodriguez.ipynb)
+Realizar el preprocesamiento del texto y elaborar una representación vectorial mediante el uso de una bolsa de palabras (BOW).
 
 - [Representación vectorial de textos (TF-IDF)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller5_NLP_TF-IDF_DianaRodriguez.ipynb)
+Realizar el preprocesamiento del texto a través de una función y elaborar una matriz TF-IDF que permita visualizar similitudes entre las personalidades de las princesas de disney con base a la función de la distancia del coseno.
 
 - [Representación vectorial de textos (CBOW, SkipGram)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller6-NLP-Word2Vec-DianaRodriguez.ipynb)
+
 
 - [Agrupación de Textos con K-Means](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller7-NLP-ClasificacionAgrupacion.ipynb)
 

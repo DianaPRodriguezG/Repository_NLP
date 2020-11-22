@@ -5,3 +5,25 @@ Durante este 2020 hice una especialización en Analítica Estratégica de Datos 
 
 - [Adquisición de Textos](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller2_NPL_DianaRodriguez-checkpoint.ipynb)
 Lectura de archivos de texto, realizar conteo de palabras en estos archivos y usando técnicas de web scraping realizar extracción de datos de páginas web identificando etiquetas.
+
+- [Extracción, pre-procesamiento y normalización de textos]
+
+- [Representación vectorial de textos (Bag of Words)]
+
+- [Representación vectorial de textos (TF-IDF)]
+
+- [Representación vectorial de textos (CBOW, SkipGram)]
+
+- [Clasificación de Textos]
+
+- [Clasificación de Textos (Regresión Logística, Naive Bayes, Máquinas de Vectores de Soporte)]
+
+- [Agrupación de Textos con K-Means]
+
+- [Modelado de Temas]
+
+- [Visualizaciones para NLP]
+
+- [Redes Sociales y NLP]
+
+- [Análisis de Sentimiento]

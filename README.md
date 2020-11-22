@@ -14,10 +14,6 @@ Lectura de archivos de texto, realizar conteo de palabras en estos archivos y us
 
 - [Representación vectorial de textos (CBOW, SkipGram)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller6-NLP-Word2Vec-DianaRodriguez.ipynb)
 
-- [Clasificación de Textos](
-
-- [Clasificación de Textos (Regresión Logística, Naive Bayes, Máquinas de Vectores de Soporte)]()
-
 - [Agrupación de Textos con K-Means](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller7-NLP-ClasificacionAgrupacion.ipynb)
 
 - [Modelado de Temas](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/Taller8-NLP-ModeladodeTemas.ipynb)

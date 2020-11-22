@@ -1,6 +1,6 @@
-# Repository_NLP
-Procesamiento de Lenguaje Natural
+## Repository_NLP
+Durante este 2020 hice una especialización en Analítica Estratégica de Datos en la cual aprendí un montón y aqui puedo mostrarles algo de lo trabajado en la mejor clase del año "Procesamiento de Lenguaje Natural" y en cuyo campo considero hay mucho por aprender y aportar.
 
-Hi everyone!
+### Proyectos
 
-I am currently a data analysis student and I want to learn about the Natural Language Processing.
+- []

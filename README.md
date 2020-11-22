@@ -8,22 +8,22 @@ Lectura de archivos de texto, realizar conteo de palabras en estos archivos y us
 
 - [Extracción, pre-procesamiento y normalización de textos](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller3_NLP_PreprocTextos_DianaRodriguez.ipynb)
 
-- [Representación vectorial de textos (Bag of Words)]
+- [Representación vectorial de textos (Bag of Words)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller4_NLP_FeatureEngineering_DianaRodriguez.ipynb)
 
-- [Representación vectorial de textos (TF-IDF)]
+- [Representación vectorial de textos (TF-IDF)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller5_NLP_TF-IDF_DianaRodriguez.ipynb)
 
-- [Representación vectorial de textos (CBOW, SkipGram)]
+- [Representación vectorial de textos (CBOW, SkipGram)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller6-NLP-Word2Vec-DianaRodriguez.ipynb)
 
-- [Clasificación de Textos]
+- [Clasificación de Textos](
 
-- [Clasificación de Textos (Regresión Logística, Naive Bayes, Máquinas de Vectores de Soporte)]
+- [Clasificación de Textos (Regresión Logística, Naive Bayes, Máquinas de Vectores de Soporte)]()
 
-- [Agrupación de Textos con K-Means]
+- [Agrupación de Textos con K-Means](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller7-NLP-ClasificacionAgrupacion.ipynb)
 
-- [Modelado de Temas]
+- [Modelado de Temas](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/Taller8-NLP-ModeladodeTemas.ipynb)
 
-- [Visualizaciones para NLP]
+- [Visualizaciones para NLP](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller9_NLP_WordCloud_DianaRodriguez.ipynb)
 
-- [Redes Sociales y NLP]
+- [Redes Sociales y NLP](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/Taller10_NLP_Twitter_DianaRodriguez.ipynb)
 
-- [Análisis de Sentimiento]
+- [Análisis de Sentimiento](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller11_NLP_AnalisisSentimiento_DianaRodriguez.ipynb)

@@ -3,4 +3,5 @@ Durante este 2020 hice una especialización en Analítica Estratégica de Datos 
 
 ### Proyectos
 
-- []
+- [Taller2]
+Lectura de archivos de texto, realizar conteo de palabras en estos archivos y usando técnicas de web scraping realizar extracción de datos de páginas web identificando etiquetas.

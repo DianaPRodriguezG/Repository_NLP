@@ -3,5 +3,5 @@ Durante este 2020 hice una especialización en Analítica Estratégica de Datos 
 
 ### Proyectos
 
-- [Taller2_NPL_DianaRodriguez-checkpoint.ipynb]()
+- [Taller2_NPL_DianaRodriguez-checkpoint.ipynb](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller2_NPL_DianaRodriguez-checkpoint.ipynb)
 Lectura de archivos de texto, realizar conteo de palabras en estos archivos y usando técnicas de web scraping realizar extracción de datos de páginas web identificando etiquetas.

@@ -15,15 +15,19 @@ Realizar el preprocesamiento del texto y elaborar una representación vectorial 
 - [Representación vectorial de textos (TF-IDF)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller5_NLP_TF-IDF_DianaRodriguez.ipynb)
 Realizar el preprocesamiento del texto a través de una función y elaborar una matriz TF-IDF que permita visualizar similitudes entre las personalidades de las princesas de disney con base a la función de la distancia del coseno.
 
-- [Representación vectorial de textos (CBOW, SkipGram)](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller6-NLP-Word2Vec-DianaRodriguez.ipynb)
+- [Representación vectorial de textos (CBOW, SkipGram)](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/Taller6-NLP-Word2Vec-DianaRodriguez.ipynb)
+Creé un archivo de cuentos infantiles y a través de Word2Vec identifiqué palabras similares y una visualización de puntos.
 
-
-- [Agrupación de Textos con K-Means](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller7-NLP-ClasificacionAgrupacion.ipynb)
+- [Agrupación de Textos con K-Means](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/Taller7-NLP-ClasificacionAgrupacion.ipynb)
+Modelos de clasificación, entrenamiento del modelo de regresión logística, evaluar métricas y modelos de agrupación con K-means, método del codo y visualización de los cluster. 
 
 - [Modelado de Temas](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/Taller8-NLP-ModeladodeTemas.ipynb)
+Mediante el uso del modelo LDA obtengo las palabras más relevantes para cada tema del texto y mediante una visualización puede observarse la relación de cada tema.
 
 - [Visualizaciones para NLP](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller9_NLP_WordCloud_DianaRodriguez.ipynb)
+Usando un set de datos que contiene las películas y programas de televisión que se encuentran en Netflix a partir del 2019 generé una nube de palabras con las descripciones propias haciendo uso de una máscara de un rollo de película.
 
 - [Redes Sociales y NLP](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/Taller10_NLP_Twitter_DianaRodriguez.ipynb)
+Usando la API de Twitter extraje mensajes relacionados a la serie Peaky Blinders correspondientes a 70 ciudades de Colombia y tras hacer un preprocesamiento del texto pude visualizar la cantidad de mensajes por día en total y discriminado por ciudad, así como observar los emojis más utilizados en los tweets.
 
 - [Análisis de Sentimiento](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller11_NLP_AnalisisSentimiento_DianaRodriguez.ipynb)

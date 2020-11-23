@@ -31,3 +31,4 @@ Usando un set de datos que contiene las películas y programas de televisión qu
 Usando la API de Twitter extraje mensajes relacionados a la serie Peaky Blinders correspondientes a 70 ciudades de Colombia y tras hacer un preprocesamiento del texto pude visualizar la cantidad de mensajes por día en total y discriminado por ciudad, así como observar los emojis más utilizados en los tweets.
 
 - [Análisis de Sentimiento](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller11_NLP_AnalisisSentimiento_DianaRodriguez.ipynb)
+Identificar el sentimiento entre positivo y negativo reflejado en los tweets sobre la serie Peaky Blinders.

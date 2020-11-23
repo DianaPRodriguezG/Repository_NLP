@@ -32,3 +32,7 @@ Usando la API de Twitter extraje mensajes relacionados a la serie Peaky Blinders
 
 - [Análisis de Sentimiento](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller11_NLP_AnalisisSentimiento_DianaRodriguez.ipynb)
 Identificar el sentimiento entre positivo y negativo reflejado en los tweets sobre la serie Peaky Blinders.
+
+
+### Contacto 
+https://www.linkedin.com/in/diana-patricia-rodr%C3%ADguez-gonz%C3%A1lez-pmp%C2%AE-51118a126/

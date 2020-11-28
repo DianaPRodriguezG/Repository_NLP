@@ -33,7 +33,7 @@ Usando la API de Twitter extraje mensajes relacionados a la serie Peaky Blinders
 - [Análisis de Sentimiento](https://github.com/DianaPRodriguezG/Repository_NLP/blob/master/Taller11_NLP_AnalisisSentimiento_DianaRodriguez.ipynb)
 Identificar el sentimiento entre positivo y negativo reflejado en los tweets sobre la serie Peaky Blinders.
 
-- [Identificar Sentimientos generados al escribir en redes sociales sobre la Selección Colombia de Fútbol](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/ProyectoTweetsFSelColombiaModeladoTemas.ipynb)
+- [Identificar Sentimientos generados al escribir en redes sociales sobre la Selección Colombia de Fútbol](https://nbviewer.jupyter.org/github/DianaPRodriguezG/Repository_NLP/blob/master/ProyectoTweetsFSelColombiaModeladoTemas.ipynb) Es indudable que en Colombia el deporte que más seguidores tiene es el fútbol y cuando se trata de la Selección Colombia o la tricolor se vive un ambiente de fiesta no sólo en los estadios sino también a nivel familiar ya que grandes y chicos disfrutan de estos encuentros. Muchas personas han gozado, han llorado e incluso generan discusiones al ver este combate entre equipos, es por esto que mi idea es identificar los sentimientos que se pueden generar al escribir en una red social como twitter acerca de la Selección Colombia de Fútbol.
 
 ### Contacto 
 https://www.linkedin.com/in/diana-patricia-rodr%C3%ADguez-gonz%C3%A1lez-pmp%C2%AE-51118a126/
